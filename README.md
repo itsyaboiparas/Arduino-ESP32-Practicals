@@ -5,7 +5,7 @@ This repository contains Arduino Uno and ESP32 practical programs developed as p
 
 The programs demonstrate basic GPIO control, timing, input interfacing, LCD communication, PWM generation, and frequency measurement.
 
-## Hardware Used
+## 🛠️  Hardware Used
 
 - Arduino Uno
 - ESP32 Development Board
